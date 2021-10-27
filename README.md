@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### I am hamidreza Abooei, an undregraduate student of biomedical engineering and Computer Engineering at Amirkabir university of technology
+Lets talk about my self 😉:
+* 🌱 I’m currently learning Artifitial intelligence. specifically, I am working on machine learning technics.
+* 📫 How to reach me: [Hamidreza.abooei@gmail.com](mailto:Hamidreza.abooei@gmail.com)
 
 <!--
 **hamidreza-abooei/hamidreza-abooei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
