@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I am hamidreza Abooei, an undregraduate student of biomedical engineering and Computer Engineering at Amirkabir university of technology
 Lets talk about my self 😉:
-* 🌱 I’m currently learning Artifitial intelligence. specifically, I am working on machine learning technics.
+* 🌱 I’m currently working on My B.Sc. thesis on EEG Signal Processing and Learning Machine Learning technics wih MATLAB/Python.
 * 📫 How to reach me: [Hamidreza.abooei@gmail.com](mailto:Hamidreza.abooei@gmail.com)
 
 <!--
