@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### I am hamidreza Abooei, an undregraduate student of biomedical engineering and Computer Engineering at Amirkabir university of technology
 Lets talk about my self 😉:
-* 🌱 I’m currently working on My B.Sc. thesis on EEG Signal Processing and Learning Machine Learning technics wih MATLAB/Python.
+* 🔭 I’m currently working on My B.Sc. thesis on EEG Signal Processing with MATLAB
+* 🌱 I’m currently learning ML and DL technics wih MATLAB/Python.
 * 📫 How to reach me: [Hamidreza.abooei@gmail.com](mailto:Hamidreza.abooei@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-abooei&layout=compact&exclude_repo=CSharpWPF)](https://github.com/anuraghazra/github-readme-stats)
