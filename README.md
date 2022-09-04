@@ -5,7 +5,16 @@ Lets talk about my self 😉:
 * 🌱 I’m currently learning ML and DL technics wih MATLAB/Python.
 * 📫 How to reach me: [Hamidreza.abooei@gmail.com](mailto:Hamidreza.abooei@gmail.com)
 
+
+# Stats
+![stats](https://github-profile-trophy.vercel.app/?username=hamidreza-abooei)
+
+![hamidreza-abooei GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidreza-abooei&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-abooei&layout=compact&exclude_repo=CSharpWPF)](https://github.com/anuraghazra/github-readme-stats)
+![activity graph](https://activity-graph.herokuapp.com/graph?username=hamidreza-abooei)
+
+
+
 <!--
 **hamidreza-abooei/hamidreza-abooei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
