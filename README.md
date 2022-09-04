@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am hamidreza Abooei, an undregraduate student of biomedical engineering and Computer Engineering at Amirkabir university of technology
+### I am Hamidreza Abooei, an undregraduate student of biomedical engineering and Computer Engineering at Amirkabir University of technology (AUT)
 Lets talk about my self 😉:
 * 🔭 I’m currently working on My B.Sc. thesis on EEG Signal Processing with MATLAB
 * 🌱 I’m currently learning ML and DL technics wih MATLAB/Python.
