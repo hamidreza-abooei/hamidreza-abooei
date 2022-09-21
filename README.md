@@ -8,7 +8,7 @@ Lets talk about my self 😉:
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-abooei&layout=compact&exclude_repo=CSharpWPF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidreza-abooei&layout=compact&exclude_repo=CSharpWPF&&hide=Purl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
