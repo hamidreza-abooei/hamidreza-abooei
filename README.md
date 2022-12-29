@@ -3,6 +3,7 @@
 Lets talk about my self 😉:
 * 🔭 I’m currently working on My B.Sc. thesis on EEG Signal Processing with MATLAB
 * 🌱 I’m currently learning ML and DL technics wih MATLAB/Python.
+* ⚡ I'm studying Artificial Intelligent, DataMining and Internet Engineering courses this semester. Wait for amazing projects to be published publically soon.
 * 📫 How to reach me: [Hamidreza.abooei@gmail.com](mailto:Hamidreza.abooei@gmail.com)
 
 
